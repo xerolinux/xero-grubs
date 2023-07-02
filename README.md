@@ -1,7 +1,5 @@
 # XeroLinux Grub Themes Repo
 
-This is where you will find all my Grub Themes.
-
 <p align="center">
   <img src="https://i.imgur.com/qEOX6uJ.png">
 </p>
