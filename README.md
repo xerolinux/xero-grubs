@@ -9,8 +9,12 @@
 I included a script that makes installing them much easier, just follow steps below :
 
 1- Git Clone this repo<br />
-2- CD into the theme of choice<br />
-3- run `chmod +x ./install.sh`<br />
-4- Execute `sudo ./install.sh`<br />
+2- CD into it and run `sudo ./install.sh`<br />
+3- Select one of the 8 themes, watch the magic.<br />
+4- Reboot your system and see the theme in action !<br />
 
 Enjoy ;)
+
+<p align="center">
+  <img src="https://i.imgur.com/vgBkIrE.png">
+</p>
