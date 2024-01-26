@@ -11,7 +11,7 @@ echo "#                  Xero Grub Themes                 #"
 echo "#####################################################"
 tput sgr0
 echo
-echo "Hello $USER, what theme would you like to apply ?"
+echo "You are running as $USER, what theme to apply ?"
 echo
 echo "1. Daft Punk (General)."
 echo "2. Icy Nordic (General)."
@@ -35,7 +35,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd DaftPunk/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -46,7 +45,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd Nordic/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -57,7 +55,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd StarWars/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -68,7 +65,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd Tron/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -79,7 +75,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd XeroCat/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -90,7 +85,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd XeroDunes/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -101,7 +95,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd XeroSimple/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
@@ -112,7 +105,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd XeroSweet/ && sudo sh install.sh
-      sudo grub-mkconfig -o /boot/grub/grub.cfg
       sleep 2
       echo
       clear && sh $0
