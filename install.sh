@@ -12,7 +12,7 @@ echo "#                  Xero Grub Themes                 #"
 echo "#####################################################"
 tput sgr0
 echo
-echo "You are running as $USER, what theme to apply ?"
+echo "$USER detected, select a theme to apply..."
 echo
 echo "1. Daft Punk (General)."
 echo "2. Icy Nordic (General)."
