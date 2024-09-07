@@ -13,8 +13,4 @@ I included a script that makes installing them much easier, just follow steps be
 3- Select one of the 8 themes, watch the magic.<br />
 4- Reboot your system and see the theme in action !<br />
 
-Enjoy ;)
-
-<p align="center">
-  <img src="https://i.imgur.com/vgBkIrE.png">
-</p>
+For more detailed info visit the [**Wiki**](https://wiki.xerolinux.xyz/grub/)
