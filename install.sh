@@ -38,7 +38,7 @@ case $CHOICE in
       cd DaftPunk/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
@@ -48,7 +48,7 @@ case $CHOICE in
       cd Nordic/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
@@ -56,6 +56,8 @@ case $CHOICE in
       echo
 	  sleep 2
       cd StarWars/ && sudo sh install.sh
+      echo
+      clear && exec "$0"
 
       ;;
 
@@ -65,7 +67,7 @@ case $CHOICE in
       cd Tron/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
@@ -75,7 +77,7 @@ case $CHOICE in
       cd XeroCat/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
@@ -85,7 +87,7 @@ case $CHOICE in
       cd XeroDunes/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
@@ -95,7 +97,7 @@ case $CHOICE in
       cd XeroSimple/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
@@ -105,7 +107,7 @@ case $CHOICE in
       cd XeroSweet/ && sudo sh install.sh
       sleep 2
       echo
-      clear && sh $0
+      clear && exec "$0"
 
       ;;
 
