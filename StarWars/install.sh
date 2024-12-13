@@ -85,7 +85,6 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 
   # Success message
   prompt -s "\n\t          ***************\n\t          *  installed!  *\n\t          ***************\n"
-  exit 0
 
 else
 
