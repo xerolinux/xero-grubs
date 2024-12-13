@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 # Grub2 Theme
 
 ROOT_UID=0
