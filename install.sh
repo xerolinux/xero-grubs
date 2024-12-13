@@ -56,9 +56,6 @@ case $CHOICE in
       echo
 	  sleep 2
       cd StarWars/ && sudo sh install.sh
-      sleep 2
-      echo
-      clear && sh $0
 
       ;;
 
