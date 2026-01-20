@@ -6,6 +6,6 @@
 
 <div align="center">
 
-# [.:: Follow the Wiki ::.](https://wiki.xerolinux.xyz/grub/)
+# [.:: Check the Wiki ::.](https://wiki.xerolinux.xyz/xero-tool/)
 
 </div>
